@@ -19,18 +19,17 @@ h1{
 div{
     width: max-content;
     margin: auto;
-
 }
 
 #container{
     margin: auto;
     width: max-content;
     color: #bcc0fd;
-    
+
 }
 
 label{
-    margin-bottom: 5px;
+    margin-bottom: 2px;
 }
 
 label, input{
